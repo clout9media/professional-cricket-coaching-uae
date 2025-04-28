@@ -18,71 +18,71 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.w86482912cfcb1b245b3dacf54b0b2381 p,.w86482912cfcb1b245b3dacf54b0b2381 span,.w86482912cfcb1b245b3dacf54b0b2381 label{
+.waf4d093509f4f28214dd9629c5b2a013 p,.waf4d093509f4f28214dd9629c5b2a013 a,.waf4d093509f4f28214dd9629c5b2a013 span,.waf4d093509f4f28214dd9629c5b2a013 label{
 font-size:16px!important;
 }
-footer *{
-font-size:16px !important;
-}
-footer{
-background:#101010;
-color:#ffffff;
-}
-*{
-font-family: 'Kumbh Sans', sans-serif;
-}
-a{
-text-decoration: none!important;
-}
-html{
-scroll-behavior: smooth;
-}
-.b5a3f3329db00cbe4f510366582042298:hover{
-box-shadow: 0 50.2px 50.5px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-.f44f66f6df31ebdbc54e41b2f01944e99 a,.w86482912cfcb1b245b3dacf54b0b2381 a{
-color:#000000!important;
-text-decoration: underline !important;
-}
-.nav-link{
-color: #000000;
-
+.navbar a{
+font-size: 17.6px!important;
+font-weight: bold;
 }
 .nav-item{
-padding-left:7.9px;
-padding-right:8.1px;
-padding-top:5.5px;
-padding-bottom:4.5px;
+padding-left:7.7px;
+padding-right:7.5px;
+padding-top:5.2px;
+padding-bottom:5.2px;
 }
-.xc0b824453d9ce339b20982544355ac56{
+a:hover{
+color:#ffffff;background:#ffc658!important;
+}
+.w32408bb659fce98d5ced29bbe1bd8e06{
 background-color:#ffc107!important;
 border-color:#ffc107!important;
 color:#000000!important;
-}
-.navbar a{
-font-size: 18.1px!important;
-font-weight: bold;
-}
-ul{
-list-style: circle;
-}
-.btn-md{
-padding: 15.4px 29.5px;
-border-radius: 0;
-}
-.f44f66f6df31ebdbc54e41b2f01944e99 p,.f44f66f6df31ebdbc54e41b2f01944e99 a,.f44f66f6df31ebdbc54e41b2f01944e99 span,.f44f66f6df31ebdbc54e41b2f01944e99 label{
-font-size:16px!important;
 }
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-.w86482912cfcb1b245b3dacf54b0b2381 a{
+html{
+scroll-behavior: smooth;
+}
+.nav-link{
+color: #000000;
+
+}
+.ff9f4a1102e0581403424de2e14ab4d06 p,.ff9f4a1102e0581403424de2e14ab4d06 span,.ff9f4a1102e0581403424de2e14ab4d06 label{
+font-size:16px!important;
+}
+ul{
+list-style: circle;
+}
+footer *{
+font-size:16px !important;
+}
+.btn-md{
+padding: 14.7px 29.6px;
+border-radius: 0;
+}
+.ff9f4a1102e0581403424de2e14ab4d06 a{
 font-size:16px;
 }
-a:hover{
-color:#ffffff;background:#ffc658!important;
+.xafe0aafb53f246393b5d2a18e72cea92:hover{
+box-shadow: 0 49.5px 50px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+.waf4d093509f4f28214dd9629c5b2a013 a,.ff9f4a1102e0581403424de2e14ab4d06 a{
+color:#0d0d0d!important;
+text-decoration: underline !important;
+}
+footer{
+background:#010101;
+color:#ffffff;
+}
+a{
+text-decoration: none!important;
+}
+*{
+font-family: 'Kumbh Sans', sans-serif;
 }
 </style>
 <script type="application/ld+json">{
@@ -826,24 +826,24 @@ This page provides information on an international badminton tournament held in 
 <a class="navbar-brand" href="index.html"  ><img alt="img/spsa.png" src="img/spsa.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="align-items-center navbar-nav d-flex ml-auto"><li class="nav-item">
-<a class="nav-link b66c8ff26be7d5001b1bbcc7437c4fd56" href="index.html" >Cricket Academy Dubai</a>
+<ul class="navbar-nav align-items-center d-flex ml-auto"><li class="nav-item">
+<a class="u41bce0e4f10c99f30ae1bac6f5d5b3fd nav-link" href="index.html" >Cricket Academy Dubai</a>
 </li>
 <li class="nav-item">
-<a class="nav-link b66c8ff26be7d5001b1bbcc7437c4fd56" href="professional-cricket.html" >professional cricket</a>
+<a class="u41bce0e4f10c99f30ae1bac6f5d5b3fd nav-link" href="professional-cricket.html" >professional cricket</a>
 </li>
 <li class="nav-item">
-<a class="b66c8ff26be7d5001b1bbcc7437c4fd56 nav-link" href="cricket-coaching.html" >cricket coaching</a>
+<a class="nav-link u41bce0e4f10c99f30ae1bac6f5d5b3fd" href="cricket-coaching.html" >cricket coaching</a>
 </li>
 <li class="nav-item">
-<a class="b66c8ff26be7d5001b1bbcc7437c4fd56 nav-link" href="uae-cricket.html" >UAE cricket</a>
+<a class="u41bce0e4f10c99f30ae1bac6f5d5b3fd nav-link" href="uae-cricket.html" >UAE cricket</a>
 </li>
 <li class="dropdown nav-item">
-<a class="b66c8ff26be7d5001b1bbcc7437c4fd56 nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+<a class="u41bce0e4f10c99f30ae1bac6f5d5b3fd dropdown-toggle nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
 <a class="dropdown-item" href="cricket-academy.html"  >cricket academy</a><a class="dropdown-item" href="cricket-training.html"  >cricket training</a><a class="dropdown-item" href="cricket-instructors.html"  >cricket instructors</a><a class="dropdown-item" href="cricket-school.html"  >cricket school</a><a class="dropdown-item" href="advanced-coaching.html"  >advanced coaching</a><a class="dropdown-item" href="elite-cricket.html"  >elite cricket</a><a class="dropdown-item" href="cricket-nets.html"  >cricket nets</a><a class="dropdown-item" href="cricket-drills.html"  >cricket drills</a><a class="dropdown-item" href="uae-sports.html"  >UAE sports</a><a class="dropdown-item" href="cricket-skills.html"  >cricket skills</a><a class="dropdown-item" href="cricket-matches.html"  >cricket matches</a><a class="dropdown-item" href="cricket-league.html"  >cricket league</a><a class="dropdown-item" href="cricket-team.html"  >cricket team</a><a class="dropdown-item" href="expert-cricket-training.html"  >expert cricket training</a><a class="dropdown-item" href="cricket-bootcamp.html"  >cricket bootcamp</a><a class="dropdown-item" href="private-coaching.html"  >private coaching</a><a class="dropdown-item" href="cricket-lessons.html"  >cricket lessons</a><a class="dropdown-item" href="cricket-player.html"  >cricket player</a><a class="dropdown-item" href="cricket-programs.html"  >cricket programs</a><a class="dropdown-item" href="cricket-club-uae.html"  >cricket club UAE</a><a class="dropdown-item" href="professional-sports.html"  >professional sports</a><a class="dropdown-item" href="cricket-trainers.html"  >cricket trainers</a><a class="dropdown-item" href="cricket-uae-academy.html"  >cricket UAE academy</a><a class="dropdown-item" href="cricket-pitch.html"  >cricket pitch</a><a class="dropdown-item" href="cricket-uae-training.html"  >cricket UAE training</a><a class="dropdown-item" href="cricket-coaching-uae.html"  >cricket coaching UAE</a><a class="dropdown-item" href="cricket-development.html"  >cricket development</a><a class="dropdown-item" href="high-performance-cricket.html"  >high-performance cricket</a><a class="dropdown-item" href="cricket-mentorship.html"  >cricket mentorship</a><a class="dropdown-item" href="national-cricket-training.html"  >national cricket training</a><a class="dropdown-item" href="cricket-coach-uae.html"  >cricket coach UAE</a><a class="dropdown-item" href="cricket-sessions.html"  >cricket sessions</a><a class="dropdown-item" href="cricket-preparation.html"  >cricket preparation</a><a class="dropdown-item" href="cricket-schedule.html"  >cricket schedule</a><a class="dropdown-item" href="match-ready-training.html"  >match-ready training</a><a class="dropdown-item" href="cricket-technical-drills.html"  >cricket technical drills</a><a class="dropdown-item" href="cricket-strategies.html"  >cricket strategies</a><a class="dropdown-item" href="fitness-for-cricket.html"  >fitness for cricket</a><a class="dropdown-item" href="cricket-sports-coaching.html"  >cricket sports coaching</a><a class="dropdown-item" href="cricket-one-on-one.html"  >cricket one-on-one</a><a class="dropdown-item" href="cricket-instruction-uae.html"  >cricket instruction UAE</a><a class="dropdown-item" href="cricket-pathways.html"  >cricket pathways</a><a class="dropdown-item" href="batting-techniques.html"  >batting techniques</a><a class="dropdown-item" href="bowling-training.html"  >bowling training</a><a class="dropdown-item" href="fielding-practice.html"  >fielding practice</a><a class="dropdown-item" href="cricket-student-uae.html"  >cricket student UAE</a><a class="dropdown-item" href="cricket-opportunities.html"  >cricket opportunities</a><a class="dropdown-item" href="cricket-sports-camp.html"  >cricket sports camp</a><a class="dropdown-item" href="cricket-player-growth.html"  >cricket player growth</a><a class="dropdown-item" href="cricket-performance.html"  >cricket performance</a><a class="dropdown-item" href="professional-nets-uae.html"  >professional nets UAE</a><a class="dropdown-item" href="cricket-uae-facility.html"  >cricket UAE facility</a><a class="dropdown-item" href="cricket-tournament-prep.html"  >cricket tournament prep</a><a class="dropdown-item" href="cricket-school-uae.html"  >cricket school UAE</a><a class="dropdown-item" href="training-academy-uae.html"  >training academy UAE</a><a class="dropdown-item" href="cricket-workshops.html"  >cricket workshops</a><a class="dropdown-item" href="uae-sports-training.html"  >UAE sports training</a><a class="dropdown-item" href="high-level-cricket.html"  >high-level cricket</a><a class="dropdown-item" href="cricket-career-training.html"  >cricket career training</a><a class="dropdown-item" href="cricket-expertise.html"  >cricket expertise</a><a class="dropdown-item" href="sports-mentoring.html"  >sports mentoring</a><a class="dropdown-item" href="cricket-coaching-classes.html"  >cricket coaching classes</a><a class="dropdown-item" href="cricket-for-teens.html"  >cricket for teens</a><a class="dropdown-item" href="cricket-fitness-uae.html"  >cricket fitness UAE</a><a class="dropdown-item" href="cricket-camps-uae.html"  >cricket camps UAE</a><a class="dropdown-item" href="cricket-performance-drills.html"  >cricket performance drills</a><a class="dropdown-item" href="cricket-trial-camps.html"  >cricket trial camps</a><a class="dropdown-item" href="cricket-weekend-training.html"  >cricket weekend training</a><a class="dropdown-item" href="cricket-coaches-uae.html"  >cricket coaches UAE</a><a class="dropdown-item" href="uae-cricket-structure.html"  >UAE cricket structure</a><a class="dropdown-item" href="cricket-specialist-coach.html"  >cricket specialist coach</a><a class="dropdown-item" href="cricket-tactics.html"  >cricket tactics</a><a class="dropdown-item" href="team-cricket-practice.html"  >team cricket practice</a><a class="dropdown-item" href="cricket-pre-match-routine.html"  >cricket pre-match routine</a><a class="dropdown-item" href="cricket-center-uae.html"  >cricket center UAE</a><a class="dropdown-item" href="pro-cricket-academy.html"  >pro cricket academy</a><a class="dropdown-item" href="cricket-for-athletes.html"  >cricket for athletes</a><a class="dropdown-item" href="cricket-training-schedule.html"  >cricket training schedule</a><a class="dropdown-item" href="player-development-cricket.html"  >player development cricket</a><a class="dropdown-item" href="technical-cricket-sessions.html"  >technical cricket sessions</a><a class="dropdown-item" href="advanced-cricket-tips.html"  >advanced cricket tips</a><a class="dropdown-item" href="uae-cricket-discipline.html"  >UAE cricket discipline</a><a class="dropdown-item" href="cricket-agility-training.html"  >cricket agility training</a><a class="dropdown-item" href="cricket-timing-drills.html"  >cricket timing drills</a><a class="dropdown-item" href="cricket-for-professionals.html"  >cricket for professionals</a><a class="dropdown-item" href="cricket-academy-coach.html"  >cricket academy coach</a><a class="dropdown-item" href="uae-cricket-support.html"  >UAE cricket support</a><a class="dropdown-item" href="sports-talent-uae.html"  >sports talent UAE</a><a class="dropdown-item" href="cricket-training-zone.html"  >cricket training zone</a><a class="dropdown-item" href="cricket-progression.html"  >cricket progression</a><a class="dropdown-item" href="structured-cricket-coaching.html"  >structured cricket coaching</a><a class="dropdown-item" href="pro-cricket-camps.html"  >pro cricket camps</a><a class="dropdown-item" href="cricket-training-program.html"  >cricket training program</a><a class="dropdown-item" href="elite-cricket-uae.html"  >elite cricket UAE</a><a class="dropdown-item" href="cricket-mentoring-uae.html"  >cricket mentoring UAE</a><a class="dropdown-item" href="training-for-cricket-players.html"  >training for cricket players</a><a class="dropdown-item" href="cricket-coaching-professionals.html"  >cricket coaching professionals</a></div>
 </li>
-<li class="nav-item"><a class="nav-link b66c8ff26be7d5001b1bbcc7437c4fd56" rel=nofollow href="about-us.html">About Us</a>
+<li class="nav-item"><a class="nav-link u41bce0e4f10c99f30ae1bac6f5d5b3fd" rel=nofollow href="about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -910,10 +910,10 @@ This website is owned and published by:
 </p>
 </section>
 <footer>
-<div class="container py-4 pt-5" >
-<div class="row"><div class="col-lg-3"><p><a class="b66c8ff26be7d5001b1bbcc7437c4fd56" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="b66c8ff26be7d5001b1bbcc7437c4fd56" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="b66c8ff26be7d5001b1bbcc7437c4fd56" href="about-us.html" rel="nofollow">About Us</a></p>
+<div class="pt-5 container py-4" >
+<div class="row"><div class="col-lg-3"><p><a class="u41bce0e4f10c99f30ae1bac6f5d5b3fd" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="u41bce0e4f10c99f30ae1bac6f5d5b3fd" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="u41bce0e4f10c99f30ae1bac6f5d5b3fd" href="about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div></div>
 </div>
